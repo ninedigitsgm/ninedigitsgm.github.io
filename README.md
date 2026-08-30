@@ -1,2 +1,2 @@
 # ninedigitsgm.github.io
-Autom Contacts Upgrader
+Auto Contacts Upgrader
